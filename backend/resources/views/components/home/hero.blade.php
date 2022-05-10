@@ -32,7 +32,7 @@
       <div class="w-full lg:w-6/12 px-4">
         <div class="lg:text-right lg:ml-auto">
           <div class="relative inline-block z-10 pt-11 lg:pt-0">
-            <img src="{{ url('/img/ninomiya_Fotor.png') }}" alt="hero" class="rounded-2xl lg:ml-auto" />
+            <img src="{{ url('/img/cafe3.png') }}" alt="hero" class="rounded-2xl lg:ml-auto" />
             <span class="absolute -left-8 -bottom-8 z-[-1]">
               <svg width="93" height="93" viewBox="0 0 93 93" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="2.5" cy="2.5" r="2.5" fill="#3056D3" />
