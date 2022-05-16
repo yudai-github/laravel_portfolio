@@ -34,19 +34,17 @@
       </div>
       <div class="w-full lg:w-1/2 xl:w-5/12 px-4">
         <div class="mt-10 lg:mt-0">
-          <span class="font-semibold text-lg text-primary mb-2 block">
-             <blockquote class="text-sm text-gray-500 italic py-2 px-3 border-l-4 border-amber-500">
-                 "Everything is achievable with hard work"
-             </blockquote>
-          </span>
           <h2 class="font-bold text-3xl sm:text-4xl dark:text-gray-200 mb-8">
             About
           </h2>
           <p class="text-base dark:text-gray-400 mb-8">
-            I have been studying programming for 1.5 years so my skill as engineer is immature. However I surely work with enthtsiasm.
+            サーバーサイドの初案件では、<span class="text-amber-500 font-bold">APIを使った仮想通貨の自動売買システム</span>を構築しました。これは本当に苦労しましたが、なんとか納品することができました。
           </p>
           <p class="text-base dark:text-gray-400 mb-8">
-            I create this portfolio with <span class="text-amber-500 font-bold">PHP/Laravel</span>, <span class="text-amber-500 font-bold">Tailwind.css</span> and <span class="text-amber-500 font-bold">Docker</span>.
+            大学1年の頃からインターンを行っているweb制作会社で、現在は<span class="text-amber-500 font-bold">web制作のディレクション</span>を担当させていただいております。
+          </p>
+          <p class="text-base dark:text-gray-400 mb-8">
+            学んでいることは、資格として応用情報技術者を学習しつつコードを書いています。また、今後は実家の仕事をサポートすることができる在庫管理やデータ分析について学びたいと考えております。 <br />
           </p>
         </div>
       </div>

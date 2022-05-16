@@ -8,7 +8,6 @@
             Contact
           </h2>
           <p class="text-base dark:text-gray-400 mb-8">
-            If you are interested, feel free to contact me.
           </p>
           <div class="flex mb-8 max-w-[370px] w-full">
             <div

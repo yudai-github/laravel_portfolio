@@ -34,9 +34,9 @@ class Portfolio extends Component
                 'github' => 'https://github.com/thecodeholic/laravel-vue-survey'
             ],
             [
-                'category' => ['Python', 'Streamlit'],
+                'category' => ['Python'],
                 'title' => 'FastAPI Reservation System',
-                'image' => url('/img/laravel_portfolio.png'),
+                'image' => url('/img/reservation_app.png'),
                 'github' => 'https://github.com/yudai-github/reservation_app'
             ],
         ];

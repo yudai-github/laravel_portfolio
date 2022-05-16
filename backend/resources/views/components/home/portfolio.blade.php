@@ -18,7 +18,7 @@
             My Projects
           </h2>
           <p class="text-base text-body-color">
-            You can see my projects and code!
+            使用言語、ツールごとにコードもしくはサイトを閲覧できます！
           </p>
         </div>
       </div>
